@@ -5,7 +5,7 @@
 ```javascript
 const joyDas = {
     location: "Sylhet Division, Bangladesh",
-    role: "Software Engineer | MERN Stack Developer",
+    role: "Full Stack Engineer | MERN Stack Developer",
     code: ["JavaScript", "TypeScript", "Python", "Java", "C"],
     technologies: {
         frontEnd: {
@@ -56,7 +56,7 @@ const joyDas = {
 
 ### 👨‍💻 **Developer Information**
 **Anirban Das Joy**  
-*Full Stack Developer | MERN Stack Specialist*  
+*Full Stack Engineer | MERN Stack Specialist*  
 Moulvibazar Polytechnic Institute, Department of CSE
 
 ### 📬 **Contact Details**
