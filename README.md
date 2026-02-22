@@ -4,23 +4,62 @@
 
 ```javascript
 const joyDas = {
-    location: "Sylhet Division, Bangladesh",
-    role: "Full Stack Engineer | MERN Stack Developer",
-    code: ["JavaScript", "TypeScript", "Python", "Java", "C"],
+    location: "Bangladesh 🇧🇩",
+    role: "Full Stack Engineer | System Builder",
+
+    code: [
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "SQL"
+    ],
+
     technologies: {
-        frontEnd: {
-            js: ["React", "Next.js", "Redux", "Context API"],
-            css: ["Tailwind CSS", "Bootstrap", "Material-UI", "Styled Components"]
+        frontend: {
+            core: ["React", "Next.js (App Router)"],
+            state: ["Redux Toolkit", "TanStack Query"],
+            styling: ["Tailwind CSS", "Shadcn UI"],
+            architecture: ["Server Components", "Optimistic UI"]
         },
-        backEnd: {
-            js: ["Node.js", "Express.js", "Nest.js"],
-            databases: ["MongoDB", "PostgreSQL", "Firebase", "MySQL"]
+
+        backend: {
+            runtime: ["Node.js"],
+            frameworks: ["Express.js", "FastAPI"],
+            auth: ["JWT", "OAuth", "Cookie-based Auth"],
+            realtime: ["WebSockets"]
         },
-        devOps: ["Docker", "AWS", "Vercel", "Netlify"],
-        tools: ["Git", "GitHub", "VS Code", "Figma", "Postman"]
+
+        databases: [
+            "MongoDB",
+            "PostgreSQL",
+            "Redis"
+        ],
+
+        devOps: [
+            "Docker",
+            "AWS",
+            "CI/CD",
+            "Linux"
+        ],
+
+        tools: [
+            "Git",
+            "Postman",
+            "Figma",
+            "pgAdmin"
+        ]
     },
-    currentFocus: "Building scalable web applications with modern tech stack",
-    funFact: "I debug with console.log and I'm proud of it! 😄"
+
+    architectureFocus: [
+        "Scalable Systems",
+        "Auth Infrastructure",
+        "Multi-tenant Apps",
+        "Clean API Design"
+    ],
+
+    currentFocus: "Building production-grade scalable SaaS architecture",
+
+    funFact: "Still debugging with console.log — now strategically 😄"
 };
 ```
 
