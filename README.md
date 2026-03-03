@@ -1,127 +1,139 @@
-# ![Banner Image](https://i.ibb.co.com/Cs7smWj3/flinkedin.png) 
+<div align="center">
 
-## 🚀 About Me
+# Anirban Das Joy
 
-```javascript
-const joyDas = {
-    location: "Bangladesh 🇧🇩",
-    role: "Full Stack Engineer | System Builder",
+### Full Stack Engineer · System Builder · Bangladesh 🇧🇩
 
-    code: [
-        "TypeScript",
-        "JavaScript",
-        "Python",
-        "SQL"
-    ],
+`TypeScript` `React` `Node.js` `Next.js` `PostgreSQL` `Docker` `AWS` `Nginx`
 
-    technologies: {
-        frontend: {
-            core: ["React", "Next.js (App Router)"],
-            state: ["Redux Toolkit", "TanStack Query"],
-            styling: ["Tailwind CSS", "Shadcn UI"],
-            architecture: ["Server Components", "Optimistic UI"]
-        },
+<br/>
 
-        backend: {
-            runtime: ["Node.js"],
-            frameworks: ["Express.js", "FastAPI"],
-            auth: ["JWT", "OAuth", "Cookie-based Auth"],
-            realtime: ["WebSockets"]
-        },
+[![](https://img.shields.io/badge/-joy600508@gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:joy600508@gmail.com)
+[![](https://img.shields.io/badge/-LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/anirbandasjoy404)
+[![](https://img.shields.io/badge/-joydas.vercel.app-0d1117?style=flat-square&logo=vercel&logoColor=white)](https://joydas.vercel.app)
+[![](https://img.shields.io/badge/-GitHub-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Anirbandasjoy)
+[![](https://komarev.com/ghpvc/?username=Anirbandasjoy&color=63b3ed&style=flat-square&label=views)](https://github.com/Anirbandasjoy)
 
-        databases: [
-            "MongoDB",
-            "PostgreSQL",
-            "Redis"
-        ],
+</div>
 
-        devOps: [
-            "Docker",
-            "AWS",
-            "CI/CD",
-            "Linux"
-        ],
+---
+```ts
+const joy = {
+  role      : "Full Stack Engineer · System Builder",
+  institute : "Moulvibazar Polytechnic Institute — CSE",
+  location  : "Bangladesh 🇧🇩",
 
-        tools: [
-            "Git",
-            "Postman",
-            "Figma",
-            "pgAdmin"
-        ]
-    },
+  stack: {
+    frontend : ["React 18", "Next.js 14", "Redux Toolkit", "TanStack Query", "Tailwind CSS", "Shadcn UI"],
+    backend  : ["Node.js", "Express.js", "NestJS", "FastAPI", "WebSockets", "REST API"],
+    database : ["MongoDB", "PostgreSQL", "Redis", "Prisma", "Mongoose"],
+    devops   : ["Docker", "AWS", "Nginx", "GitHub Actions", "CI/CD", "Linux"],
+    auth     : ["JWT", "OAuth 2.0", "Refresh Tokens", "Cookie Sessions"],
+  },
 
-    architectureFocus: [
-        "Scalable Systems",
-        "Auth Infrastructure",
-        "Multi-tenant Apps",
-        "Clean API Design"
-    ],
-
-    currentFocus: "Building production-grade scalable SaaS architecture",
-
-    funFact: "Still debugging with console.log — now strategically 😄"
+  currently : "Building production-grade multi-tenant SaaS architecture",
+  openTo    : ["Freelance", "Full-time Remote", "Open Source"],
+  quote     : "Great code is like humor — if you have to explain it, it's bad.",
 };
 ```
 
+---
 
+## `skills`
+```
+Languages
+──────────────────────────────────────────────────────────────
+  TypeScript    ████████████████████  Expert
+  JavaScript    ████████████████████  Expert
+  Python        █████████████░░░░░░░  Intermediate
+  SQL           ████████████████░░░░  Advanced
 
+Frontend
+──────────────────────────────────────────────────────────────
+  React 18          ████████████████████  Expert
+  Next.js 14        ███████████████████░  Advanced
+  Tailwind CSS      ████████████████████  Expert
+  Redux Toolkit     ████████████████░░░░  Advanced
+  TanStack Query    ████████████████░░░░  Advanced
+  Shadcn UI         ███████████████░░░░░  Advanced
 
-## Technology and Tools
+Backend
+──────────────────────────────────────────────────────────────
+  Node.js       ████████████████████  Expert
+  Express.js    ████████████████████  Expert
+  NestJS        ██████████████░░░░░░  Growing
+  FastAPI       ████████████░░░░░░░░  Intermediate
+  WebSockets    ███████████████░░░░░  Advanced
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,express,mongodb,postgres,nodejs,java,python,c,html,css,tailwindcss,docker,firebase,bootstrap,git,github,figma,vscode,ubuntu" />
-  </a>
-</p>
+Database
+──────────────────────────────────────────────────────────────
+  MongoDB       ████████████████████  Expert
+  PostgreSQL    █████████████████░░░  Advanced
+  Redis         █████████████░░░░░░░  Intermediate
+  Prisma ORM    ████████████████░░░░  Advanced
+  Mongoose      ████████████████████  Expert
 
-
-## 💼 What I'm Up To
-
-- 🔭 Currently working on **Advanced React Projects** and exploring **Microservices Architecture**
-- 🌱 Learning **Next.js 14**, **NestJS**, **Docker**, and **AWS Cloud Services**
-- 👯 Looking to collaborate on **Open Source Projects** and **Innovative Web Applications**
-- 💬 Ask me about **React**, **Node.js**, **NestJS**, **MongoDB**, or **Full-Stack Development**
-- 📫 Reach me at: **joy600508@gmail.com**
-- ⚡ Fun fact: I believe great code is like humor - when you have to explain it, it's bad!
-
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anirbandasjoy&theme=algolia&show_icons=true)
-
+DevOps & Infrastructure
+──────────────────────────────────────────────────────────────
+  Docker           ████████████████░░░░  Advanced
+  Nginx            ████████████████░░░░  Advanced
+  AWS EC2/S3/RDS   █████████████░░░░░░░  Intermediate
+  GitHub Actions   █████████████████░░░  Advanced
+  Linux / Shell    █████████████████░░░  Advanced
+  CI/CD Pipelines  ████████████████░░░░  Advanced
+```
 
 ---
 
-## 🤝 Contact
+## `github`
 
-### 👨‍💻 **Developer Information**
-**Anirban Das Joy**  
-*Full Stack Engineer | MERN Stack Specialist*  
-Moulvibazar Polytechnic Institute, Department of CSE
+<div align="center">
 
-### 📬 **Contact Details**
-- 📧 **Email:** [joy600508@gmail.com](mailto:joy600508@gmail.com)
-- 💻 **GitHub:** [github.com/Anirbandasjoy](https://github.com/Anirbandasjoy)
-- 🔗 **LinkedIn:** [linkedin.com/in/anirbandasjoy404](https://www.linkedin.com/in/anirbandasjoy404)
-- 📘 **Facebook:** [facebook.com/anirbandasjoy](https://web.facebook.com/Anirbandasjoy)
-- 🌐 **Portfolio:** [joydas.vercel.app](https://joydas.vercel.app)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anirbandasjoy&theme=github_dark" width="96%" />
 
-### 💼 **Available for:**
-- Freelance projects
-- Technical consultation
-- Full-stack development
-- API development
-- Database design
-- Code reviews
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anirbandasjoy&theme=github_dark" width="31.5%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anirbandasjoy&theme=github_dark" width="31.5%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anirbandasjoy&theme=github_dark" width="31.5%" />
+
+</div>
 
 ---
 
+## `now`
+```
+[SHIPPING]   →  Multi-tenant SaaS — auth infrastructure · billing · role management
+[LEARNING]   →  NestJS · AWS ECS · Docker Compose · Nginx reverse proxy
+[EXPLORING]  →  Microservices · Event-driven architecture · Message queues
+[OPEN TO]    →  OSS collaboration · Full-stack products · Remote work
+```
 
+---
 
+## `contact`
+```json
+{
+  "email"     : "joy600508@gmail.com",
+  "linkedin"  : "linkedin.com/in/anirbandasjoy404",
+  "portfolio" : "joydas.vercel.app",
+  "github"    : "github.com/Anirbandasjoy",
+  "facebook"  : "facebook.com/Anirbandasjoy",
+  "available" : ["Freelance", "Full-time Remote", "Open Source"],
+  "response"  : "Within 24 hours"
+}
+```
 
+---
 
+---
 
+<div align="center">
 
+**`freelance`** &nbsp;·&nbsp; **`full-time remote`** &nbsp;·&nbsp; **`open source`** &nbsp;·&nbsp; **`code reviews`**
 
+<br/>
 
+[joy600508@gmail.com](mailto:joy600508@gmail.com) &nbsp;·&nbsp; [joydas.vercel.app](https://joydas.vercel.app)
 
-  
+![](https://komarev.com/ghpvc/?username=Anirbandasjoy&color=63b3ed&style=flat-square&label=views)
+
+</div>
