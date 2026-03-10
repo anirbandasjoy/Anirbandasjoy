@@ -1,4 +1,4 @@
-<h3 align="left">Hi, I'm Anirban Das Joy! 👋</h3>
+<h3 align="left">Hi, I'm Joy Das! 👋</h3>
 
 ###
 
