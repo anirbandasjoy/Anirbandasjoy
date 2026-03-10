@@ -1,139 +1,99 @@
-<div align="center">
+<h3 align="left">Hi, I'm Anirban Das Joy! 👋</h3>
 
-# Anirban Das Joy
+###
 
-### Full Stack Engineer · System Builder · Bangladesh 🇧🇩
+<h4 align="left">🚀 Full Stack Engineer | System Builder | AI Explorer</h4>
 
-`TypeScript` `React` `Node.js` `Next.js` `PostgreSQL` `Docker` `AWS` `Nginx`
+###
 
-<br/>
+<p align="left">I'm a full stack engineer from Bangladesh, experienced in building production-grade systems and scalable applications with modern web technologies. I specialize in TypeScript, React, Node.js, Next.js, NestJS, and PostgreSQL, while also exploring multi-tenant SaaS architecture and DevOps infrastructure.</p>
 
-[![](https://img.shields.io/badge/-joy600508@gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:joy600508@gmail.com)
-[![](https://img.shields.io/badge/-LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/anirbandasjoy404)
-[![](https://img.shields.io/badge/-joydas.vercel.app-0d1117?style=flat-square&logo=vercel&logoColor=white)](https://joydas.vercel.app)
-[![](https://img.shields.io/badge/-GitHub-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Anirbandasjoy)
-[![](https://komarev.com/ghpvc/?username=Anirbandasjoy&color=63b3ed&style=flat-square&label=views)](https://github.com/Anirbandasjoy)
+###
 
+<h4 align="left">Technologies</h4>
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="github actions logo" />
 </div>
 
----
-```ts
-const joy = {
-  role      : "Full Stack Engineer · System Builder",
-  institute : "Moulvibazar Polytechnic Institute — CSE",
-  location  : "Bangladesh 🇧🇩",
+###
 
-  stack: {
-    frontend : ["React 18", "Next.js 14", "Redux Toolkit", "TanStack Query", "Tailwind CSS", "Shadcn UI"],
-    backend  : ["Node.js", "Express.js", "NestJS", "FastAPI", "WebSockets", "REST API"],
-    database : ["MongoDB", "PostgreSQL", "Redis", "Prisma", "Mongoose"],
-    devops   : ["Docker", "AWS", "Nginx", "GitHub Actions", "CI/CD", "Linux"],
-    auth     : ["JWT", "OAuth 2.0", "Refresh Tokens", "Cookie Sessions"],
-  },
+<h4 align="left">GitHub Stats</h4>
 
-  currently : "Building production-grade multi-tenant SaaS architecture",
-  openTo    : ["Freelance", "Full-time Remote", "Open Source"],
-  quote     : "Great code is like humor — if you have to explain it, it's bad.",
-};
-```
-
----
-
-## `skills`
-```
-Languages
-──────────────────────────────────────────────────────────────
-  TypeScript    ████████████████████  Expert
-  JavaScript    ████████████████████  Expert
-  Python        █████████████░░░░░░░  Intermediate
-  SQL           ████████████████░░░░  Advanced
-
-Frontend
-──────────────────────────────────────────────────────────────
-  React 18          ████████████████████  Expert
-  Next.js 14        ███████████████████░  Advanced
-  Tailwind CSS      ████████████████████  Expert
-  Redux Toolkit     ████████████████░░░░  Advanced
-  TanStack Query    ████████████████░░░░  Advanced
-  Shadcn UI         ███████████████░░░░░  Advanced
-
-Backend
-──────────────────────────────────────────────────────────────
-  Node.js       ████████████████████  Expert
-  Express.js    ████████████████████  Expert
-  NestJS        ██████████████░░░░░░  Growing
-  FastAPI       ████████████░░░░░░░░  Intermediate
-  WebSockets    ███████████████░░░░░  Advanced
-
-Database
-──────────────────────────────────────────────────────────────
-  MongoDB       ████████████████████  Expert
-  PostgreSQL    █████████████████░░░  Advanced
-  Redis         █████████████░░░░░░░  Intermediate
-  Prisma ORM    ████████████████░░░░  Advanced
-  Mongoose      ████████████████████  Expert
-
-DevOps & Infrastructure
-──────────────────────────────────────────────────────────────
-  Docker           ████████████████░░░░  Advanced
-  Nginx            ████████████████░░░░  Advanced
-  AWS EC2/S3/RDS   █████████████░░░░░░░  Intermediate
-  GitHub Actions   █████████████████░░░  Advanced
-  Linux / Shell    █████████████████░░░  Advanced
-  CI/CD Pipelines  ████████████████░░░░  Advanced
-```
-
----
-
-## `github`
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anirbandasjoy&theme=github_dark" width="96%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anirbandasjoy&theme=github_dark" width="31.5%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anirbandasjoy&theme=github_dark" width="31.5%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anirbandasjoy&theme=github_dark" width="31.5%" />
-
+<div align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anirbandasjoy&theme=github_dark" height="150" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anirbandasjoy&theme=github_dark" height="150" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anirbandasjoy&theme=github_dark" height="150" alt="Most Commit Language" />
 </div>
 
----
+###
 
-## `now`
-```
-[SHIPPING]   →  Multi-tenant SaaS — auth infrastructure · billing · role management
-[LEARNING]   →  NestJS · AWS ECS · Docker Compose · Nginx reverse proxy
-[EXPLORING]  →  Microservices · Event-driven architecture · Message queues
-[OPEN TO]    →  OSS collaboration · Full-stack products · Remote work
-```
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anirbandasjoy&theme=github_dark" width="100%" alt="Profile Details" />
 
----
+###
 
-## `contact`
-```json
-{
-  "email"     : "joy600508@gmail.com",
-  "linkedin"  : "linkedin.com/in/anirbandasjoy404",
-  "portfolio" : "joydas.vercel.app",
-  "github"    : "github.com/Anirbandasjoy",
-  "facebook"  : "facebook.com/Anirbandasjoy",
-  "available" : ["Freelance", "Full-time Remote", "Open Source"],
-  "response"  : "Within 24 hours"
-}
-```
+<h4 align="left">Let's Connect</h4>
 
----
-
----
-
-<div align="center">
-
-**`freelance`** &nbsp;·&nbsp; **`full-time remote`** &nbsp;·&nbsp; **`open source`** &nbsp;·&nbsp; **`code reviews`**
-
-<br/>
-
-[joy600508@gmail.com](mailto:joy600508@gmail.com) &nbsp;·&nbsp; [joydas.vercel.app](https://joydas.vercel.app)
-
-![](https://komarev.com/ghpvc/?username=Anirbandasjoy&color=63b3ed&style=flat-square&label=views)
-
+<div align="left">
+  <a href="mailto:joy600508@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="36" alt="Gmail" />
+  </a>
+  <img width="5" />
+  <a href="https://linkedin.com/in/anirbandasjoy404">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="36" alt="LinkedIn" />
+  </a>
+  <img width="5" />
+  <a href="https://facebook.com/Anirbandasjoy">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="36" alt="Facebook" />
+  </a>
+  <img width="5" />
+ 
+  <img width="5" />
+  <a href="https://api.whatsapp.com/send?phone=8801772838734">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="36" alt="WhatsApp" />
+  </a>
+  <img width="5" />
+  <a href="https://qrinux.slack.com/team/U07PV8FRX98">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="36" alt="Slack" />
+  </a>
 </div>
+
+###
