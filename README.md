@@ -91,9 +91,9 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="36" alt="WhatsApp" />
   </a>
   <img width="5" />
-  <a href="https://qrinux.slack.com/team/U07PV8FRX98">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="36" alt="Slack" />
-  </a>
+  <a href="https://discord.com/users/joydas404">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="36" alt="Discord" />
+ </a>
 </div>
 
 ###
